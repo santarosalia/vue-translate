@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### translate
+```
+npm run translate
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

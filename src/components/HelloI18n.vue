@@ -1,5 +1,6 @@
 <template>
   <p @click="df">하하하이</p>
+  <p>{{ $t('테스트') }}</p>
 </template>
 
 <script>

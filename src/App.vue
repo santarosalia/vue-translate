@@ -2,6 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <HelloI18n></HelloI18n>
+  <p>{{ $t('테스트트트ㅡㅌ') }}</p>
 </template>
 
 <script>
